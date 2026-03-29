@@ -50,4 +50,4 @@ Bu gizlilik politikası zaman zaman güncellenebilir. Güncellemeler bu sayfada 
 
 Herhangi bir sorunuz varsa bizimle iletişime geçebilirsiniz:
 
-E-posta: seninmailin@example.com
+E-posta: codecore.community@gmail.com
